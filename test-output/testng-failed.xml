@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="Edge"/>
+  <test thread-count="5" name="EdgeTest(failed)">
+    <classes>
+      <class name="Test.LoginHRM">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+          <include name="logintest" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- Test.LoginHRM -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
