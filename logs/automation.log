@@ -1,24 +1,34 @@
-2024-09-09 12:42:08 INFO  LoginHRM:40 - browser is edge
-2024-09-09 12:42:17 INFO  LoginHRM:16 - 1.Launched url
-2024-09-09 12:42:18 INFO  LoginHRM:18 - 2. Entered user
-2024-09-09 12:42:18 INFO  LoginHRM:20 - 3. Entered password
-2024-09-09 12:42:19 INFO  LoginHRM:22 - 4. validate the login info
-2024-09-09 12:42:20 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
-2024-09-09 12:42:21 INFO  LoginHRM:37 - browser is chrome
-2024-09-09 12:42:26 INFO  LoginHRM:16 - 1.Launched url
-2024-09-09 12:42:26 INFO  LoginHRM:18 - 2. Entered user
-2024-09-09 12:42:27 INFO  LoginHRM:20 - 3. Entered password
-2024-09-09 12:42:27 INFO  LoginHRM:22 - 4. validate the login info
-2024-09-09 12:42:29 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
-2024-09-09 13:44:33 INFO  LoginHRM:40 - browser is edge
-2024-09-09 13:44:40 INFO  LoginHRM:16 - 1.Launched url
-2024-09-09 13:44:41 INFO  LoginHRM:18 - 2. Entered user
-2024-09-09 13:44:41 INFO  LoginHRM:20 - 3. Entered password
-2024-09-09 13:44:42 INFO  LoginHRM:22 - 4. validate the login info
-2024-09-09 13:44:42 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
-2024-09-09 13:44:43 INFO  LoginHRM:37 - browser is chrome
-2024-09-09 13:44:48 INFO  LoginHRM:16 - 1.Launched url
-2024-09-09 13:44:48 INFO  LoginHRM:18 - 2. Entered user
-2024-09-09 13:44:48 INFO  LoginHRM:20 - 3. Entered password
-2024-09-09 13:44:50 INFO  LoginHRM:22 - 4. validate the login info
-2024-09-09 13:44:50 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
+2024-09-11 12:47:31 INFO  LoginHRM:16 - 1.Launched url
+2024-09-11 12:47:32 INFO  LoginHRM:18 - 2. Entered user
+2024-09-11 12:47:32 INFO  LoginHRM:20 - 3. Entered password
+2024-09-11 12:47:33 INFO  LoginHRM:22 - 4. validate the login info
+2024-09-11 12:47:34 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
+2024-09-11 12:47:51 INFO  LoginHRM:16 - 1.Launched url
+2024-09-11 12:47:51 INFO  LoginHRM:18 - 2. Entered user
+2024-09-11 12:47:51 INFO  LoginHRM:20 - 3. Entered password
+2024-09-11 12:47:51 INFO  LoginHRM:22 - 4. validate the login info
+2024-09-11 12:47:53 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
+2024-09-11 12:53:54 INFO  LoginHRM:40 - browser is edge
+2024-09-11 12:53:59 INFO  LoginHRM:16 - 1.Launched url
+2024-09-11 12:53:59 INFO  LoginHRM:18 - 2. Entered user
+2024-09-11 12:54:00 INFO  LoginHRM:20 - 3. Entered password
+2024-09-11 12:54:01 INFO  LoginHRM:22 - 4. validate the login info
+2024-09-11 12:54:02 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
+2024-09-11 12:54:03 INFO  LoginHRM:37 - browser is chrome
+2024-09-11 12:54:07 INFO  LoginHRM:16 - 1.Launched url
+2024-09-11 12:54:07 INFO  LoginHRM:18 - 2. Entered user
+2024-09-11 12:54:08 INFO  LoginHRM:20 - 3. Entered password
+2024-09-11 12:54:08 INFO  LoginHRM:22 - 4. validate the login info
+2024-09-11 12:54:10 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
+2024-09-11 12:56:14 INFO  LoginHRM:40 - browser is edge
+2024-09-11 12:56:19 INFO  LoginHRM:16 - 1.Launched url
+2024-09-11 12:56:20 INFO  LoginHRM:18 - 2. Entered user
+2024-09-11 12:56:20 INFO  LoginHRM:20 - 3. Entered password
+2024-09-11 12:56:21 INFO  LoginHRM:22 - 4. validate the login info
+2024-09-11 12:56:22 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
+2024-09-11 12:56:23 INFO  LoginHRM:37 - browser is chrome
+2024-09-11 12:56:27 INFO  LoginHRM:16 - 1.Launched url
+2024-09-11 12:56:28 INFO  LoginHRM:18 - 2. Entered user
+2024-09-11 12:56:28 INFO  LoginHRM:20 - 3. Entered password
+2024-09-11 12:56:29 INFO  LoginHRM:22 - 4. validate the login info
+2024-09-11 12:56:30 INFO  LoginHRM:24 - 5. Login successfull for the user Admin
