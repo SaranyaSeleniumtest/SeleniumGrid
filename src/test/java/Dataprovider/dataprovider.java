@@ -19,7 +19,7 @@ public class dataprovider {
 	
 	@DataProvider(name="hashdata")
 	public Object[][] testdata() throws IOException {
-		Excelutils excel= new Excelutils("logindata");
+		Excelutils excel= new Excelutils("calories");
 		int rowcnt = excel.getrow();
 		Object[][] data= new Object[rowcnt][1];
 		for (int row=1;row<=rowcnt;row++) {

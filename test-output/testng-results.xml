@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-12T12:29:16 IST" name="Suite" finished-at="2024-09-12T12:29:22 IST" duration-ms="6053">
+  <suite started-at="2024-09-26T16:21:45 IST" name="Suite" finished-at="2024-09-26T16:21:54 IST" duration-ms="8650">
     <groups>
     </groups>
-    <test started-at="2024-09-12T12:29:16 IST" name="ChromeTest" finished-at="2024-09-12T12:29:22 IST" duration-ms="6053">
+    <test started-at="2024-09-26T16:21:45 IST" name="ChromeTest" finished-at="2024-09-26T16:21:54 IST" duration-ms="8650">
       <class name="Test.amazon">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Test.amazon@76b1e9b8]" started-at="2024-09-12T12:29:16 IST" name="setup" finished-at="2024-09-12T12:29:19 IST" duration-ms="3211" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Test.amazon@76b1e9b8]" started-at="2024-09-26T16:21:45 IST" name="setup" finished-at="2024-09-26T16:21:52 IST" duration-ms="6227" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testamazon()[pri:0, instance:Test.amazon@76b1e9b8]" started-at="2024-09-12T12:29:19 IST" name="testamazon" finished-at="2024-09-12T12:29:22 IST" duration-ms="2790" status="FAIL">
+        <test-method signature="testamazon()[pri:0, instance:Test.amazon@76b1e9b8]" started-at="2024-09-26T16:21:52 IST" name="testamazon" finished-at="2024-09-26T16:21:54 IST" duration-ms="2360" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.getTitle()" because "Utilities.GenericMethods.driver" is null]]>

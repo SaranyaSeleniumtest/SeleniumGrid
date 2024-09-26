@@ -8,9 +8,21 @@
         <methods>
           <include name="initialize"/>
           <include name="teardown"/>
-          <include name="logintest"/>
+          <include name="logintest" invocation-numbers="0"/>
         </methods>
       </class> <!-- Test.LoginHRM -->
     </classes>
   </test> <!-- EdgeTest(failed) -->
+  <test thread-count="5" parallel="methods" name="ChromeTest(failed)" verbose="0">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="Test.LoginHRM">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+          <include name="logintest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Test.LoginHRM -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
